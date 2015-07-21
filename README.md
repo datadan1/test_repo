@@ -11,7 +11,10 @@
   #Go to R to make changes to desired file.
 
   #git status to check if it ready (red=changed green = ready for commit)
+
   #git add cachematrix.R   (Where cachmatrix.R is the file name you have updated and wish to move to github)
+
   #git commit -m "blah blah blah describing your change"
+
   #git push origin master (put in user name and password (github password)
 
